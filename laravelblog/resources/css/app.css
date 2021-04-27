@@ -1,0 +1,14 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+div.background-image{
+    background-image: url('https://image.freepik.com/free-photo/hand-man-using-laptop-computer-dark_141345-69.jpg');
+    background-position: center center;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-attachment: cover;
+    height: 600px;
+}
